@@ -19,4 +19,4 @@ O painel monitora:
 
 ---
 *Desenvolvido por Pedro Lucas Lopes Souza*
-[LinkedIn](www.linkedin.com/in/pedro-lucas-lopes-souza)
+[LinkedIn](https://www.linkedin.com/in/pedro-lucas-lopes-souza)
